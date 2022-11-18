@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Gimbap",
+    "description": "Cooked rice and ingredients (vegetables, fish, meat) rolled in gim (dried sheets of seaweed)",
+    "price": 5.99,
+    "image": "images/gimbap.png",
+    "noodle": false,
+    "vegetarian": false,
+    "popular": 1
+  },
+  {
+    "name": "Naengmyeon",
+    "description": "Korean icy cold noodle dish which consists of long and thing handmade buckwheat noodles, topped with egg and cucumber",
+    "price": 10.99,
+    "image": "images/naengmyeon.png",
+    "noodle": true,
+    "vegetarian": true,
+    "popular": 2
+  },
+  {
+    "name": "Bossam",
+    "description": "Boiled pork dish (pork shoulder); served with spicy radish kimchi, garlic, ssamjang, and lettuce",
+    "price": 20.99,
+    "image": "images/bossam.png",
+    "noodle": false,
+    "vegetarian": false,
+    "popular": 3
+  },
+  {
+    "name": "Jjajangmyeon",
+    "description": "Korean-chinese noodle dish topped with thich sauce made of chunjang, diced pork, vegtables (cucumber), and an egg",
+    "price": 10.99,
+    "image": "images/jjajangmyeon.png",
+    "noodle": true,
+    "vegetarian": false,
+    "popular": 4
+  },
+  {
+    "name": "Japchae",
+    "description": "Savory and and slighty sweet stir-fried glass noodle dish, combined with vegetables and optional add on: pork meat",
+    "price": 9.99,
+    "image": "images/japchae.png",
+    "noodle": true,
+    "vegetarian": true,
+    "popular": 5
+  },
+  {
+    "name": "Kongguksu",
+    "description": "Noodle dish in cold soybean milk soup; can be done in either sweet or savory",
+    "price": 11.99,
+    "image": "images/kongguksu.png",
+    "noodle": true,
+    "vegetarian": false,
+    "popular": 6
+  },
+  {
+    "name": "Hobakjuk",
+    "description": "Sweet pumpkim porridge made with pumpkin and house-made glutinous rice flour balls",
+    "price": 8.99,
+    "image": "images/hobakjuk.png",
+    "noodle": false,
+    "vegetarian": false,
+    "popular": 7
+  },
+  {
+    "name": "Bulgogi",
+    "description": "Literally translates to: fire meat; Thin marinated slices of beef grilled on barbecue for smokey taste, served on top of cooked white rice",
+    "price": 19.99,
+    "image": "images/bulgogi.png",
+    "noodle": false,
+    "vegetarian": false,
+    "popular": 8
+  },
+  {
+    "name": "Bibimbap",
+    "description": "Bowl of warm white rice topped with vegetables, kimchi, gochujang paste, soy sauce, and sesame oil",
+    "price": 8.99,
+    "image": "images/bibimbap.png",
+    "noodle": false,
+    "vegetarian": true,
+    "popular": 9
+  },
+  {
+    "name": "Kimchi",
+    "description": "Traditional side dish of salted and fermented napa cabbage",
+    "price": 3.99,
+    "image": "images/kimchi.png",
+    "noodle": false,
+    "vegetarian": true,
+    "popular": 10
+  },
+  {
+    "name": "Tteokbokki",
+    "description": "Korean street food made with rice cakes and vegetables in spicy gochujang sauce",
+    "price": 13.99,
+    "image": "images/tteokbokki.png",
+    "noodle": false,
+    "vegetarian": true,
+    "popular": 11
+  },
+  {
+    "name": "Gopchang",
+    "description": "Beef tripe hot pot; spicy korean stew made with cooked beef trip, vegetables, and seasoning in beef broth",
+    "price": 23.99,
+    "image": "images/gopchang.png",
+    "noodle": false,
+    "vegetarian": false,
+    "popular": 12
+  }
+]
