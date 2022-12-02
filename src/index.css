@@ -18,3 +18,8 @@ h1 {
   padding-top: 1rem;
   font-size: 40px;
 }
+
+.cart-item {
+  display: flex;
+  justify-content: center;
+}
